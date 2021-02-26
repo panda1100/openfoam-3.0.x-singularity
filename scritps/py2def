@@ -1,0 +1,2 @@
+#!/bin/bash
+hpccm --recipe openfoam-3.0.x.py --format singularity --singularity-version=3.7 > openfoam-3.0.x.def
